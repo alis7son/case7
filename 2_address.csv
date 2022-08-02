@@ -1,0 +1,748 @@
+id,state,city
+1,RJ,Carmo
+2,MG,Bertopolis
+3,MG,Olaria
+4,PR,Icaraima
+5,ES,Ecoporanga
+6,BA,Gaviao
+7,ES,"Cachoeiro de Itapemirim"
+8,RJ,Mesquita
+9,PR,"Marechal Candido Rondon"
+10,RJ,"Barra do Pirai"
+11,GO,"Cocalzinho de Goias"
+12,RJ,Italva
+13,RJ,"Sao Fidelis"
+14,RJ,"Porto Real"
+15,MG,"Novo Cruzeiro"
+16,RJ,"Cardoso Moreira"
+17,MG,"Carmo do Rio Claro"
+18,RJ,"Nova Iguacu"
+19,PR,"Terra Boa"
+20,RJ,"Miguel Pereira"
+21,MG,"Francisco Sa"
+22,PR,Mercedes
+23,PR,"Porto Vitoria"
+24,BA,Lencois
+25,MG,Ijaci
+26,MG,Jequitai
+27,PR,"Campina da Lagoa"
+28,MG,"Antonio Prado de Minas"
+29,MG,"Alfredo Vasconcelos"
+30,PR,Pranchita
+31,MG,Taparuba
+32,SP,Paraiso
+33,MG,Lambari
+34,ES,"Sao Domingos do Norte"
+35,SP,Cajobi
+36,PR,"Boa Esperanca do Iguacu"
+37,SP,"Pirapora do Bom Jesus"
+38,SP,"Santopolis do Aguapei"
+39,RJ,"Paraiba do Sul"
+40,GO,"Santo Antonio do Descoberto"
+41,PR,Juranda
+42,MG,"Bom Jardim de Minas"
+43,MG,Serranos
+44,MG,"Campina Verde"
+45,SP,Riolandia
+46,MG,"Sao Lourenco"
+47,GO,Faina
+48,SC,"Sao Joao do Itaperiu"
+49,MG,Mantena
+50,MG,"Santana do Paraiso"
+51,PR,Uniflor
+52,MG,Claudio
+53,BA,Aratuipe
+54,GO,Moipora
+55,SC,"Santa Rosa do Sul"
+56,GO,"Ipiranga de Goias"
+57,ES,Alegre
+58,GO,Panama
+59,MG,Delta
+60,MG,"Fruta de Leite"
+61,GO,"Pires do Rio"
+62,GO,Orizona
+63,RJ,Nilopolis
+64,RJ,"Sao Goncalo"
+65,SP,"Patrocinio Paulista"
+66,PR,"Boa Vista da Aparecida"
+67,RJ,Cambuci
+68,RJ,"Arraial do Cabo"
+69,GO,Trindade
+70,RJ,"Cabo Frio"
+71,ES,Irupi
+72,SC,"Jose Boiteux"
+73,BA,"Dario Meira"
+74,MG,"Varjao de Minas"
+75,RJ,Quissama
+76,PR,"Barra do Jacare"
+77,MG,Heliodora
+78,ES,Viana
+79,BA,"Morro do Chapeu"
+80,PR,"Candido de Abreu"
+81,BA,Jacobina
+82,MG,"Vargem Alegre"
+83,MG,"Espera Feliz"
+84,PR,"Sao Pedro do Parana"
+85,MG,Caxambu
+86,RJ,Vassouras
+87,ES,Itaguacu
+88,ES,Itapemirim
+89,ES,Apiaca
+90,MG,Verissimo
+91,BA,Camamu
+92,GO,Montividiu
+93,ES,Serra
+94,ES,"Afonso Claudio"
+95,MG,Alpercata
+96,RJ,Pinheiral
+97,PR,"Boa Ventura de Sao Roque"
+98,MG,Consolacao
+99,ES,"Sao Gabriel da Palha"
+100,PR,"Perola dOeste"
+101,MG,"Sao Joao da Lagoa"
+102,PR,"Marilandia do Sul"
+103,BA,Carinhanha
+104,MG,Ipaba
+105,RJ,Saquarema
+106,PR,Lapa
+107,BA,Fatima
+108,ES,Marataizes
+109,ES,Mucurici
+110,MG,Vazante
+111,BA,Santanopolis
+112,ES,Linhares
+113,RJ,"Santo Antonio de Padua"
+114,RJ,"Paty do Alferes"
+115,ES,Cariacica
+116,PR,Perobal
+117,ES,"Alto Rio Novo"
+118,ES,Piuma
+119,MG,Pimenta
+120,PR,Umuarama
+121,PR,Cianorte
+122,RJ,"Angra dos Reis"
+123,RJ,Cordeiro
+124,MG,Merces
+125,MG,"Nova Lima"
+126,RJ,"Santa Maria Madalena"
+127,RJ,Sumidouro
+128,MG,"Santa Cruz do Escalvado"
+129,MG,Diamantina
+130,RJ,Petropolis
+131,PR,Japura
+132,ES,"Ponto Belo"
+133,MG,Cordisburgo
+134,ES,"Marechal Floriano"
+135,MG,"Campo Florido"
+136,MG,Canaa
+137,BA,"Paulo Afonso"
+138,PR,Indianopolis
+139,RJ,"Bom Jesus do Itabapoana"
+140,SP,Charqueada
+141,SC,Luzerna
+142,PR,California
+143,PR,"Ribeirao Claro"
+144,SC,"Santa Helena"
+145,SP,"Santa Maria da Serra"
+146,PR,Mallet
+147,ES,Iuna
+148,MG,Crisolita
+149,MG,"Desterro do Melo"
+150,PR,Guairaca
+151,GO,"Lagoa Santa"
+152,PR,Missal
+153,MG,Joanesia
+154,MG,Ubaporanga
+155,MG,"Ouro Fino"
+156,RJ,Itatiaia
+157,GO,Mambai
+158,RJ,Quatis
+159,MG,Unai
+160,RJ,"Bom Jardim"
+161,PR,Peabiru
+162,PR,Guamiranga
+163,PR,Carambei
+164,SP,Palestina
+165,MG,Congonhal
+166,PR,Jacarezinho
+167,PR,"Cruz Machado"
+168,MG,"Cachoeira de Minas"
+169,MG,Camacho
+170,MG,Guaxupe
+171,SP,Cunha
+172,MG,Natalandia
+173,PR,"Porto Barreiro"
+174,RJ,"Nova Friburgo"
+175,PR,Angulo
+176,MG,Espinosa
+177,RJ,"Cachoeiras de Macacu"
+178,MG,Betim
+179,MG,Pirauba
+180,MG,Sardoa
+181,MG,"Cascalho Rico"
+182,RJ,Areal
+183,SC,"Sao Francisco do Sul"
+184,MG,"Sao Sebastiao do Maranhao"
+185,PR,Tamarana
+186,RJ,"Belford Roxo"
+187,GO,"Cachoeira de Goias"
+188,SP,"Capela do Alto"
+189,ES,"Vila Valerio"
+190,ES,Iconha
+191,MG,"Santa Rita de Caldas"
+192,PR,"Sao Jeronimo da Serra"
+193,SC,"Vitor Meireles"
+194,PR,"Coronel Vivida"
+195,MG,Oratorios
+196,BA,Macaubas
+197,PR,Sarandi
+198,PR,Borrazopolis
+199,SC,Criciuma
+200,PR,"Quatro Pontes"
+201,ES,"Nova Venecia"
+202,SP,"Itapirapua Paulista"
+203,SC,"Caxambu do Sul"
+204,MG,"Fortaleza de Minas"
+205,ES,Pinheiros
+206,RJ,Mangaratiba
+207,PR,Amapora
+208,BA,Abare
+209,MG,"Santa Efigenia de Minas"
+210,BA,Brumado
+211,GO,"Santa Rita do Araguaia"
+212,SP,"Pedra Bela"
+213,RJ,"Rio de Janeiro"
+214,BA,Condeuba
+215,ES,"Presidente Kennedy"
+216,MG,Conquista
+217,GO,"Caldas Novas"
+218,MG,Buritis
+219,GO,"Nova Aurora"
+220,MG,"Frei Inocencio"
+221,MG,"Cachoeira da Prata"
+222,PR,"Sao Miguel do Iguacu"
+223,RJ,Tangua
+224,ES,Montanha
+225,PR,Congonhinhas
+226,MG,Paineiras
+227,RJ,Macuco
+228,RJ,"Casimiro de Abreu"
+229,MG,"Serra dos Aimores"
+230,MG,Malacacheta
+231,SC,Guaraciaba
+232,BA,Central
+233,PR,"Agudos do Sul"
+234,ES,"Vargem Alta"
+235,PR,Mariluz
+236,GO,"Cachoeira Dourada"
+237,PR,"Diamante do Sul"
+238,MG,"Conceicao dos Ouros"
+239,RJ,"Tres Rios"
+240,SP,Tapiratiba
+241,MG,Paraguacu
+242,PR,Itambe
+243,ES,"Mimoso do Sul"
+244,PR,Luiziana
+245,PR,Perola
+246,MG,"Entre Folhas"
+247,MG,"Nova Belem"
+248,MG,Guaranesia
+249,MG,Carandai
+250,SC,"Mirim Doce"
+251,RJ,Araruama
+252,MG,Araponga
+253,PR,"Esperanca Nova"
+254,RJ,"Iguaba Grande"
+255,PR,Cafelandia
+256,SC,Blumenau
+257,BA,"Firmino Alves"
+258,MG,Nazareno
+259,SP,Batatais
+260,SC,Irineopolis
+261,PR,"Alto Piquiri"
+262,PR,"Flor da Serra do Sul"
+263,MG,"Visconde do Rio Branco"
+264,MG,Silveirania
+265,PR,Cafeara
+266,GO,Aurilandia
+267,GO,Anhanguera
+268,MG,"Quartel Geral"
+269,MG,Bocaiuva
+270,RJ,"Engenheiro Paulo de Frontin"
+271,PR,Cantagalo
+272,PR,Pinhao
+273,ES,"Sao Jose do Calcado"
+274,ES,"Baixo Guandu"
+275,MG,Tapira
+276,MG,Turmalina
+277,ES,"Pedro Canario"
+278,PR,"Santo Inacio"
+279,PR,Mandaguari
+280,PR,"Santa Helena"
+281,MG,"Pedra do Indaia"
+282,PR,Sapopema
+283,MG,Salinas
+284,ES,Fundao
+285,SC,"Sao Cristovao do Sul"
+286,RJ,"Rio das Flores"
+287,SC,"Santa Cecilia"
+288,MG,"Comendador Gomes"
+289,GO,Rialma
+290,SP,"Franco da Rocha"
+291,MG,"Capim Branco"
+292,MG,Pompeu
+293,PR,"Quatro Barras"
+294,MG,"Piedade dos Gerais"
+295,ES,"Alfredo Chaves"
+296,MG,"Cabo Verde"
+297,MG,Paracatu
+298,MG,Durande
+299,PR,Guaporema
+300,MG,Guarda-Mor
+301,MG,"Sao Geraldo do Baixio"
+302,BA,"Lajedo do Tabocal"
+303,MG,Manhuacu
+304,BA,"Sitio do Mato"
+305,PR,Jesuitas
+306,MG,Jordania
+307,RJ,Mendes
+308,RJ,"Sao Jose do Vale do Rio Preto"
+309,SP,Socorro
+310,PR,"Honorio Serpa"
+311,MG,Aricanduva
+312,GO,"Novo Gama"
+313,GO,Goias
+314,PR,"Altamira do Parana"
+315,PR,Planalto
+316,SP,"Salto de Pirapora"
+317,MG,"Amparo do Serra"
+318,MG,Ipatinga
+319,ES,"Vila Pavao"
+320,ES,"Barra de Sao Francisco"
+321,MG,"Mata Verde"
+322,PR,"Ribeirao do Pinhal"
+323,PR,"Antonio Olinto"
+324,PR,Florestopolis
+325,PR,Paranagua
+326,SC,"Formosa do Sul"
+327,PR,"Sao Jose dos Pinhais"
+328,BA,Candiba
+329,SP,Cacapava
+330,MG,"Fronteira dos Vales"
+331,ES,"Santa Teresa"
+332,MG,Marlieria
+333,PR,"Cafezal do Sul"
+334,MG,Paraisopolis
+335,MG,"Conceicao do Mato Dentro"
+336,BA,"Satiro Dias"
+337,PR,"Sao Sebastiao da Amoreira"
+338,PR,"Sao Manoel do Parana"
+339,RJ,Queimados
+340,MG,"Delfim Moreira"
+341,MG,Sapucai-Mirim
+342,MG,"Sao Tiago"
+343,MG,Inhauma
+344,PR,Jaguapita
+345,SP,Itai
+346,MG,Crucilandia
+347,MG,"Cruzeiro da Fortaleza"
+348,GO,Sanclerlandia
+349,SC,Treviso
+350,MG,"Senador Firmino"
+351,MG,Prata
+352,RJ,Pirai
+353,SC,Descanso
+354,SC,"Agua Doce"
+355,MG,Ipuiuna
+356,SC,Laurentino
+357,PR,"Maua da Serra"
+358,RJ,"Sao Pedro da Aldeia"
+359,MG,"Pouso Alto"
+360,PR,"Sao Jorge do Ivai"
+361,PR,Florida
+362,MG,"Riacho dos Machados"
+363,PR,Sulina
+364,MG,Itaguara
+365,PR,Virmond
+366,ES,Castelo
+367,MG,Urucuia
+368,MG,"Minas Novas"
+369,PR,"Moreira Sales"
+370,RJ,"Volta Redonda"
+371,RJ,"Barra Mansa"
+372,PR,"Tres Barras do Parana"
+373,RJ,Seropedica
+374,SP,Piracaia
+375,PR,"Espigao Alto do Iguacu"
+376,MG,Lavras
+377,SC,"Balneario Camboriu"
+378,MG,"Santa Rita de Jacutinga"
+379,MG,Mirabela
+380,ES,"Divino de Sao Lourenco"
+381,SC,Gravatal
+382,PR,"Cerro Azul"
+383,RJ,Itaborai
+384,MG,Carmesia
+385,MG,"Itambe do Mato Dentro"
+386,RJ,Miracema
+387,MG,"Monte Santo de Minas"
+388,SP,Palmital
+389,MG,Lagamar
+390,GO,"Sao Joao dAlianca"
+391,PR,"Manoel Ribas"
+392,RJ,Resende
+393,MG,Botelhos
+394,PR,"Prado Ferreira"
+395,SC,Apiuna
+396,RJ,"Rio Claro"
+397,SC,Mondai
+398,MG,Piracema
+399,MG,Timoteo
+400,MG,"Monsenhor Paulo"
+401,SP,"Sete Barras"
+402,RJ,"Campos dos Goytacazes"
+403,SC,"Morro da Fumaca"
+404,PR,"Nova Fatima"
+405,GO,Matrincha
+406,MG,"Carmopolis de Minas"
+407,BA,Olindina
+408,MG,"Serranopolis de Minas"
+409,PR,"Jandaia do Sul"
+410,SP,Sorocaba
+411,PR,"Rio Bonito do Iguacu"
+412,GO,Guapo
+413,PR,Anahy
+414,ES,Pancas
+415,MG,"Barra Longa"
+416,PR,"Cruzeiro do Iguacu"
+417,MG,Glaucilandia
+418,MG,"Santana do Deserto"
+419,MG,"Morro da Garca"
+420,MG,"Morro do Pilar"
+421,GO,"Carmo do Rio Verde"
+422,SP,Salto
+423,PR,"Almirante Tamandare"
+424,MG,"Mendes Pimentel"
+425,SP,"Sao Bernardo do Campo"
+426,BA,Ubata
+427,ES,Anchieta
+428,MG,Lamim
+429,MG,Capetinga
+430,SP,Dolcinopolis
+431,BA,Camacari
+432,GO,Ceres
+433,PR,Arapongas
+434,PR,"Santa Cecilia do Pavao"
+435,RJ,Itaocara
+436,RJ,Aperibe
+437,PR,Palmital
+438,PR,Palmeira
+439,MG,Pintopolis
+440,RJ,"Duas Barras"
+441,MG,"Sao Geraldo"
+442,MG,Funilandia
+443,GO,"Sao Luiz do Norte"
+444,MG,"Serra do Salitre"
+445,PR,Ourizona
+446,MG,"Lagoa dos Patos"
+447,PR,"Serranopolis do Iguacu"
+448,PR,Floresta
+449,PR,"Pato Bragado"
+450,PR,Castro
+451,GO,"Santa Cruz de Goias"
+452,RJ,Paracambi
+453,PR,"Brasilandia do Sul"
+454,PR,Mambore
+455,PR,Imbau
+456,PR,Vere
+457,BA,Paripiranga
+458,MG,"Ibitiura de Minas"
+459,PR,"Querencia do Norte"
+460,MG,Alvinopolis
+461,MG,"Senhora do Porto"
+462,PR,Itaguaje
+463,PR,Araucaria
+464,RJ,"Sao Sebastiao do Alto"
+465,GO,Amorinopolis
+466,MG,"Ponte Nova"
+467,RJ,Parati
+468,ES,"Bom Jesus do Norte"
+469,SP,Elisiario
+470,MG,"Nova Resende"
+471,ES,"Rio Novo do Sul"
+472,SP,"Bernardino de Campos"
+473,PR,Abatia
+474,BA,Iacu
+475,ES,Muqui
+476,ES,"Venda Nova do Imigrante"
+477,PR,"Santo Antonio da Platina"
+478,SC,Itaiopolis
+479,MG,Tapirai
+480,RJ,Macae
+481,PR,"Engenheiro Beltrao"
+482,MG,"Santa Rita de Ibitipoca"
+483,MG,Seritinga
+484,MG,"Resende Costa"
+485,PR,Urai
+486,ES,Sooretama
+487,PR,Realeza
+488,PR,"Nova Alianca do Ivai"
+489,MG,Mutum
+490,SC,"Bom Jesus do Oeste"
+491,BA,Heliopolis
+492,MG,Indianopolis
+493,BA,Ipecaeta
+494,MG,"Divino das Laranjeiras"
+495,MG,"Piedade do Rio Grande"
+496,RJ,"Comendador Levy Gasparian"
+497,PR,Assai
+498,RJ,"Silva Jardim"
+499,PR,Porecatu
+500,ES,Ibatiba
+501,PR,Toledo
+502,MG,Cantagalo
+503,PR,Capanema
+504,MG,"Sao Francisco de Paula"
+505,PR,"Paraiso do Norte"
+506,BA,Canavieiras
+507,ES,"Agua Doce do Norte"
+508,BA,Buritirama
+509,SP,"Nova Campina"
+510,MG,"Santos Dumont"
+511,MG,"Ponto dos Volantes"
+512,GO,"Divinopolis de Goias"
+513,PR,"Salto do Itarare"
+514,SC,"Palma Sola"
+515,BA,Canudos
+516,ES,Guacui
+517,SC,"Sao Miguel do Oeste"
+518,ES,"Joao Neiva"
+519,MG,Coimbra
+520,GO,Maurilandia
+521,RJ,Varre-Sai
+522,SP,Pontalinda
+523,MG,"Lagoa Formosa"
+524,MG,Arinos
+525,MG,"Campos Altos"
+526,MG,Jacui
+527,SC,Arvoredo
+528,MG,"Santa Maria do Suacui"
+529,RJ,Valenca
+530,MG,Carrancas
+531,MG,"Mathias Lobato"
+532,MG,Catuji
+533,ES,"Conceicao do Castelo"
+534,MG,"Santa Maria do Salto"
+535,SP,Jeriquara
+536,PR,"Santa Izabel do Oeste"
+537,GO,"Santa Fe de Goias"
+538,PR,Figueira
+539,MG,"Pedro Teixeira"
+540,SC,Painel
+541,PR,"Santa Isabel do Ivai"
+542,MG,Eugenopolis
+543,MG,Liberdade
+544,ES,Jaguare
+545,ES,"Vila Velha"
+546,PR,Laranjal
+547,SC,"Sao Bonifacio"
+548,MG,"Cana Verde"
+549,PR,"Terra Roxa"
+550,MG,"Mar de Espanha"
+551,PR,"Francisco Alves"
+552,MG,"Vargem Bonita"
+553,MG,Resplendor
+554,MG,"Uniao de Minas"
+555,MG,"Conselheiro Lafaiete"
+556,SP,Avai
+557,ES,Guarapari
+558,SP,"Santa Barbara dOeste"
+559,SP,"Barra Bonita"
+560,RJ,Cantagalo
+561,SC,Fraiburgo
+562,ES,"Boa Esperanca"
+563,MG,Caldas
+564,RJ,"Sao Francisco de Itabapoana"
+565,MG,Virginia
+566,MG,"Padre Paraiso"
+567,RJ,"Rio Bonito"
+568,SC,Xavantina
+569,RJ,Itaguai
+570,MG,Campanha
+571,MG,Itabirito
+572,MG,"Central de Minas"
+573,GO,Joviania
+574,MG,"Santana do Riacho"
+575,MG,Formoso
+576,MG,Felixlandia
+577,MG,"Sao Sebastiao da Bela Vista"
+578,GO,Aloandia
+579,PR,Cascavel
+580,MG,Sacramento
+581,PR,"Tijucas do Sul"
+582,MG,Virgolandia
+583,MG,Baependi
+584,MG,"Rio Manso"
+585,MG,"Maripa de Minas"
+586,MG,Romaria
+587,PR,"Jundiai do Sul"
+588,BA,Pocoes
+589,BA,"Contendas do Sincora"
+590,MG,"Conceicao de Ipanema"
+591,BA,Gongogi
+592,MG,Caratinga
+593,RJ,"Trajano de Morais"
+594,PR,Reserva
+595,MG,Caiana
+596,BA,"Feira de Santana"
+597,MG,"Santa Vitoria"
+598,RJ,"Duque de Caxias"
+599,MG,Almenara
+600,ES,"Santa Maria de Jetiba"
+601,BA,Cristopolis
+602,MG,"Teofilo Otoni"
+603,MG,Piau
+604,SC,Petrolandia
+605,GO,Crominia
+606,MG,"Barao de Cocais"
+607,ES,Mantenopolis
+608,MG,"Sao Francisco"
+609,MG,Gouveia
+610,BA,Iguai
+611,MG,Carvalhos
+612,PR,"Ponta Grossa"
+613,PR,"Nova Aurora"
+614,MG,Miravania
+615,MG,Confins
+616,MG,Itaobim
+617,PR,"Cruzeiro do Sul"
+618,PR,Irati
+619,GO,"Campos Limpo de Goias"
+620,PR,Loanda
+621,SP,"Praia Grande"
+622,MG,"Chapada do Norte"
+623,ES,Ibitirama
+624,BA,"Belo Campo"
+625,MG,Albertina
+626,MG,Nepomuceno
+627,MG,Argirita
+628,SP,Canas
+629,PR,Iretama
+630,GO,"Campo Alegre de Goias"
+631,PR,Antonina
+632,SP,"Bom Sucesso de Itarare"
+633,MG,"Nova Porteirinha"
+634,PR,Andira
+635,BA,Lapao
+636,MG,"Paula Candido"
+637,MG,"Carmo do Paranaiba"
+638,MG,"Cedro do Abaete"
+639,MG,"Divisa Alegre"
+640,SC,Bandeirante
+641,PR,Itambaraca
+642,PR,"Santa Monica"
+643,MG,"Sao Joao do Manhuacu"
+644,SC,Timbo
+645,PR,"Reserva do Iguacu"
+646,BA,Piata
+647,SC,"Sao Jose"
+648,ES,"Sao Mateus"
+649,MG,Guape
+650,SP,"Estrela dOeste"
+651,MG,"Governador Valadares"
+652,MG,Douradoquara
+653,SC,"Passos Maia"
+654,MG,"Monte Carmelo"
+655,PR,Londrina
+656,RJ,"Sao Jose de Uba"
+657,MG,"Sao Jose da Lapa"
+658,PR,"General Carneiro"
+659,MG,Piranguinho
+660,SP,Duartina
+661,MG,Itamogi
+662,SC,Modelo
+663,BA,Morpara
+664,PR,Cambira
+665,ES,Marilandia
+666,BA,Canarana
+667,BA,"Cardeal da Silva"
+668,MG,Chacara
+669,PR,Iguatu
+670,PR,Curiuva
+671,MG,Vicosa
+672,BA,Wagner
+673,MG,"Mario Campos"
+674,MG,"Curral de Dentro"
+675,MG,Ipiacu
+676,PR,Rondon
+677,MG,"Jose Goncalves de Minas"
+678,SC,"Cordilheira Alta"
+679,SP,"Salto Grande"
+680,MG,Pote
+681,GO,"Nova Crixas"
+682,GO,Jussara
+683,MG,Itapeva
+684,MG,Guanhaes
+685,MG,Ninheira
+686,SP,Pontal
+687,MG,"Dom Vicoso"
+688,RJ,Guapimirim
+689,PR,"Iracema do Oeste"
+690,SC,"Rio Fortuna"
+691,MG,"Presidente Bernardes"
+692,BA,"Erico Cardoso"
+693,SC,Saudades
+694,MG,Doresopolis
+695,PR,Jaguariaiva
+696,MG,Muzambinho
+697,MG,"Nacip Raydan"
+698,SC,"Sao Lourenco do Oeste"
+699,BA,"Teodoro Sampaio"
+700,RJ,Porciuncula
+701,SP,Peruibe
+702,BA,Nordestina
+703,PR,"Ceu Azul"
+704,MG,Campestre
+705,RJ,"Conceicao de Macabu"
+706,MG,"Dores de Guanhaes"
+707,PR,"Vila Alta"
+708,PR,Mariopolis
+709,MG,"Bias Fortes"
+710,MG,"Felicio dos Santos"
+711,PR,Bandeirantes
+712,MG,"Prudente de Morais"
+713,PR,Altonia
+714,PR,"Bom Sucesso do Sul"
+715,RJ,Itaperuna
+716,SP,Ituverava
+717,MG,Minduri
+718,MG,"Santa Luzia"
+719,MG,"Sao Domingos do Prata"
+720,MG,Angelandia
+721,PR,"Ariranha do Ivai"
+722,MG,Verdelandia
+723,PR,Roncador
+724,MG,Esmeraldas
+725,MG,"Alto Jequitiba"
+726,MG,Baldim
+727,MG,Aiuruoca
+728,MG,"Rio Vermelho"
+729,BA,"Santa Barbara"
+730,MG,Paulistas
+731,MG,Munhoz
+732,MG,Cuparaque
+733,SP,Aruja
+734,MG,Pavao
+735,RJ,"Sao Joao de Meriti"
+736,MG,Extrema
+737,MG,Pirapora
+738,PR,Xambre
+739,ES,"Rio Bananal"
+740,BA,"Bom Jesus da Lapa"
+741,ES,Brejetuba
+742,BA,Tanhacu
+743,SP,"Bento de Abreu"
+744,SP,"Mira Estrela"
+745,GO,"Monte Alegre de Goias"
+746,GO,"Sao Luis de Montes Belos"
+747,SC,Zortea

@@ -1,0 +1,4 @@
+id,description,description_long
+1,boleto_recebido,"BOLETO RECEBIDO PELO CLIENTE"
+2,pix_enviado,"PIX ENVIADO PELO CLIENTE PARA UMA CONTA EXTERNA"
+3,pix_recebido,"PIX RECEBIDO PELO CLIENTE"
